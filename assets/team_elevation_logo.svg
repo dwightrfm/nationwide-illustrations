@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 760" width="1024" height="760" role="img" aria-label="Team Elevation">
+  <rect width="1024" height="760" fill="#0E2340"/>
+  <g fill="none" stroke-linecap="butt" stroke-linejoin="miter">
+    <polyline points="196,528 341,318 399,401" stroke="#E9A833" stroke-width="62"/>
+    <polyline points="833,528 683,318 625,401" stroke="#E9A833" stroke-width="62"/>
+    <polyline points="372,432 515,190 658,432" stroke="#E8332A" stroke-width="78"/>
+  </g>
+  <path d="M515 350 L610 484 L544 484 L544 534 L486 534 L486 484 L420 484 Z" fill="#E9A833"/>
+  <text x="512" y="716" textLength="824" lengthAdjust="spacingAndGlyphs"
+        text-anchor="middle" fill="#F7F0E3"
+        font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-weight="900" font-size="196" letter-spacing="2">ELEVATION</text>
+</svg>
